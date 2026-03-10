@@ -1,4 +1,4 @@
-# CarePlan_Summary
+# CarePlan Notes Summary
 
 **LLM-Based Symptom-Severity Extraction from AML Clinical Notes via Targeted Summarization**
 
