@@ -52,7 +52,6 @@ Each outcome (Pain, Anxiety, Infection, Nausea, Tissue) has its own tailored pro
 | Metric | Description |
 |---|---|
 | BERTScore F1 | Semantic similarity between source notes and summaries |
-| ROUGE-1 Precision | Unigram overlap (summary words grounded in source) |
 | Compression Ratio | Summary length / source length |
 | Human Evaluation | Expert ratings on completeness, correctness, temporal alignment (1–5 scale) |
 
