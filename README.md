@@ -18,7 +18,7 @@ The pipeline supports five NOC outcomes:
 
 
 
-## Symptom-Targeted Summarization
+## Symptom-Targeted Prompt for Summarization
 
 Unlike generic summarization, our prompts use **structured extraction** with symptom-specific sections. For example, the Pain summarization prompt extracts:
 
